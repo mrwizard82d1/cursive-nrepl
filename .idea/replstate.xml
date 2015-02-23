@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1424732626683">{:repl-history {:ide [], :local [], :remote [&quot;  :cljs/quit&quot; &quot;(broser-repl)&quot; &quot;(.log js/console \&quot;Hi\&quot;)&quot; &quot;:cljs/quit&quot; &quot;(quit)&quot; &quot;(+ 1 1)&quot; &quot;(run)&quot; &quot;(.log js/console \&quot;Hi from IntelliJ IDEA\&quot;)&quot; &quot;(browser-repl)&quot; &quot;(.log js/console \&quot;Hello from IntelliJ IDEA\&quot;)&quot;]}}</component>
+</project>
